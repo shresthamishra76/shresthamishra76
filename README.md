@@ -3,7 +3,8 @@
 🎓 Computer Science @ The University of Texas at Austin (Class of 2029)  
 📍 Austin, TX  
 
-🔗 [Portfolio](https://shresthamishra.vercel.app) | [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/) | [Resume](./Shrestha_Mishra_Resume.pdf)  
+🔗 [Portfolio](https://shresthamishra.vercel.app) | [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/) | [Resume (Fall 2025)](https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
+  
 
 ---
 
@@ -80,18 +81,18 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [Converso](https://converso-ai.vercel.app)  
+### 🔹 [Converso](https://github.com/shresthamishra76/Converso-SaaS-App)
 _SaaS ML Companion — Next.js, Tailwind CSS, Supabase, Stripe_  
 - Real-time **voice-driven lessons** with VAPI  
 - 100+ daily interactive sessions in beta  
 - 50+ active paying users within 1 month  
 
-### 🔹 [YOLO Automated Landmark Detection](https://github.com/shresthamishra07/landmark-detection)  
+### 🔹 [YOLO Automated Landmark Detection]
 _Deep Learning — Python, Streamlit, YOLO, GU2Net_  
 - Automated detection of calcaneus landmarks  
 - Achieved **94% SDR** and deployed with an interactive Streamlit app  
 
-### 🔹 [BiteSwipe](https://github.com/shresthamishra07/biteswipe)  
+### 🔹 [BiteSwipe](https://github.com/shresthamishra76/BiteSwipe))  
 _Restaurant Discovery App — Next.js, Supabase, Yelp API_  
 - Swipe-based restaurant finder using **Yelp API**  
 - Handles **10k+ swipes/min** with zero data loss  
@@ -103,9 +104,8 @@ _Restaurant Discovery App — Next.js, Supabase, Yelp API_
 📧 **Email:** shresthamishra76@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/)  
 🌐 [Portfolio](https://shresthamishra.vercel.app)  
-📄 [View Latest Resume](https://github.com/shresthamishra07/shresthamishra07/blob/main/Shrestha_Mishra_Resume.pdf)  
-⬇️ [Download (Release v1.0)](https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
+📄 [Resume (Fall 2025)](https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
 
 
 ---
-⭐️ _Always excited to collaborate on ML, healthcare AI, and SaaS projects!_
+⭐️ _Always excited to collaborate on projects!_
