@@ -4,9 +4,9 @@
   <h2>🎓 Computer Science Student</h2>
   <h3>The University of Texas at Austin • Class of 2029</h3>
   <p>📍 Austin, TX</p>
-
 </div>
 
+---
 
 ## 🔗 Connect With Me  
 
@@ -32,8 +32,6 @@
     </td>
   </tr>
 </table>
-
-  
 
 ---
 
@@ -100,9 +98,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/><br/>GCP
     </td>
     <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" style="background-color:white; padding:5px; border-radius:6px;"/><br/>Vercel
-</td>
-
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" style="background-color:white; padding:5px; border-radius:6px;"/><br/>Vercel
+    </td>
   </tr>
 </table>  
 
@@ -110,18 +107,18 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [Converso](https://github.com/shresthamishra76/Converso-SaaS-App)
+### 🔹 <a href="https://github.com/shresthamishra76/Converso-SaaS-App" target="_blank">Converso</a>  
 _SaaS ML Companion — Next.js, Tailwind CSS, Supabase, Stripe_  
 - Real-time **voice-driven lessons** with VAPI  
 - 100+ daily interactive sessions in beta  
 - 50+ active paying users within 1 month  
 
-### 🔹 YOLO Automated Landmark Detection
+### 🔹 <a href="https://github.com/shresthamishra76" target="_blank">YOLO Automated Landmark Detection</a>  
 _Deep Learning — Python, Streamlit, YOLO, GU2Net_  
 - Automated detection of calcaneus landmarks  
 - Achieved **94% SDR** and deployed with an interactive Streamlit app  
 
-### 🔹 [BiteSwipe](https://github.com/shresthamishra76/BiteSwipe) 
+### 🔹 <a href="https://github.com/shresthamishra76/BiteSwipe" target="_blank">BiteSwipe</a>  
 _Restaurant Discovery App — Next.js, Supabase, Yelp API_  
 - Swipe-based restaurant finder using **Yelp API**  
 - Handles **10k+ swipes/min** with zero data loss  
@@ -130,11 +127,10 @@ _Restaurant Discovery App — Next.js, Supabase, Yelp API_
 
 ## 📫 Get in Touch  
 
-📧 [Email](mailto:shresthamishra76@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/)  
-🌐 [Portfolio](https://shresthamishra.vercel.app)  
-📄 [Resume (Fall 2025)](https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
-
+📧 <a href="mailto:shresthamishra76@gmail.com" target="_blank">Email</a>  
+💼 <a href="https://www.linkedin.com/in/shrestha-mishra07/" target="_blank">LinkedIn</a>  
+🌐 <a href="https://shresthamishra.vercel.app" target="_blank">Portfolio</a>  
+📄 <a href="https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf" target="_blank">Resume (Fall 2025)</a>  
 
 ---
 ⭐️ _Always excited to collaborate on projects!_
