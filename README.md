@@ -103,7 +103,9 @@ _Restaurant Discovery App — Next.js, Supabase, Yelp API_
 📧 **Email:** shresthamishra76@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/)  
 🌐 [Portfolio](https://shresthamishra.vercel.app)  
-📄 [Resume](./Shrestha_Mishra_Resume.pdf)  
+📄 [View Latest Resume](https://github.com/shresthamishra07/shresthamishra07/blob/main/Shrestha_Mishra_Resume.pdf)  
+⬇️ [Download (Release v1.0)](https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
+
 
 ---
 ⭐️ _Always excited to collaborate on ML, healthcare AI, and SaaS projects!_
