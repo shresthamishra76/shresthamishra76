@@ -13,19 +13,19 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <a href="https://shresthamishra.vercel.app" target="_blank">
+      <a href="https://shresthamishra.vercel.app">
         <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
         <br/>Portfolio
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/shrestha-mishra07/" target="_blank">
+      <a href="https://www.linkedin.com/in/shrestha-mishra07/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
         <br/>LinkedIn
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://github.com/shresthamishra07/shresthamishra07/blob/main/Shrestha_Mishra_Resume.pdf" target="_blank">
+      <a href="https://github.com/shresthamishra76/shresthamishra76/releases/download/v1.0/Shrestha_Mishra_Resume.pdf">
         <img src="https://img.icons8.com/plasticine/48/resume.png" width="40" height="40" alt="Resume"/>
         <br/>Resume
       </a>
@@ -107,18 +107,18 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 <a href="https://github.com/shresthamishra76/Converso-SaaS-App" target="_blank">Converso</a>  
+### 🔹 [Converso](https://github.com/shresthamishra76/Converso-SaaS-App)  
 _SaaS ML Companion — Next.js, Tailwind CSS, Supabase, Stripe_  
 - Real-time **voice-driven lessons** with VAPI  
 - 100+ daily interactive sessions in beta  
 - 50+ active paying users within 1 month  
 
-### 🔹 <a href="https://github.com/shresthamishra76" target="_blank">YOLO Automated Landmark Detection</a>  
+### 🔹 [YOLO Automated Landmark Detection](https://github.com/shresthamishra76)  
 _Deep Learning — Python, Streamlit, YOLO, GU2Net_  
 - Automated detection of calcaneus landmarks  
 - Achieved **94% SDR** and deployed with an interactive Streamlit app  
 
-### 🔹 <a href="https://github.com/shresthamishra76/BiteSwipe" target="_blank">BiteSwipe</a>  
+### 🔹 [BiteSwipe](https://github.com/shresthamishra76/BiteSwipe)  
 _Restaurant Discovery App — Next.js, Supabase, Yelp API_  
 - Swipe-based restaurant finder using **Yelp API**  
 - Handles **10k+ swipes/min** with zero data loss  
@@ -127,10 +127,10 @@ _Restaurant Discovery App — Next.js, Supabase, Yelp API_
 
 ## 📫 Get in Touch  
 
-📧 <a href="mailto:shresthamishra76@gmail.com" target="_blank">Email</a>  
-💼 <a href="https://www.linkedin.com/in/shrestha-mishra07/" target="_blank">LinkedIn</a>  
-🌐 <a href="https://shresthamishra.vercel.app" target="_blank">Portfolio</a>  
-📄 <a href="https://github.com/shresthamishra07/shresthamishra07/releases/download/v1.0/Shrestha_Mishra_Resume.pdf" target="_blank">Resume (Fall 2025)</a>  
+📧 [Email](mailto:shresthamishra76@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/)  
+🌐 [Portfolio](https://shresthamishra.vercel.app)  
+📄 [Resume (Fall 2025)](https://github.com/shresthamishra76/shresthamishra76/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)  
 
 ---
 ⭐️ _Always excited to collaborate on projects!_
