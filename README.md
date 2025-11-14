@@ -2,181 +2,92 @@
   <img src="https://readme-typing-svg.demolab.com?size=30&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+I%27m+Shrestha+Mishra;Student+%7C+Software+Engineer+%7C+Chill+Guy" />
 </p>
 
- 
+<div align="center">
+  
+### 🎓 CS @ The University of Texas at Austin • '29
+### 💼 Incoming SDE @ IBM (Summer '26)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://shresthamishra.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrestha-mishra07/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-success?style=for-the-badge)](https://github.com/shresthamishra76/shresthamishra76/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthamishra76@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
-  <h2>🎓 Computer Science Student</h2>
-  <h3>The University of Texas at Austin • Class of 2029</h3>
-  <p>📍 Austin, TX</p>
-</div>
 
----
+## 🚀 What I'm Building With
 
-## 🔗 Connect With Me  
+<table>
+<tr>
+<td align="center" width="50%">
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://shresthamishra.vercel.app">
-        <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
-        <br/>Portfolio
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/shrestha-mishra07/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-        <br/>LinkedIn
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/shresthamishra76/shresthamishra76/releases/download/v1.0/Shrestha_Mishra_Resume.pdf">
-        <img src="https://img.icons8.com/plasticine/48/resume.png" width="40" height="40" alt="Resume"/>
-        <br/>Resume
-      </a>
-    </td>
-  </tr>
+### 🤖 **AI/ML Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 💻 **Full-Stack Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
+**Core Languages:** Python • JavaScript • TypeScript • Java • C++ • SQL
 
-## 🛠️ Skills  
-
-### 🧑‍💻 Languages  
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br/>Python
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br/>JavaScript
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/><br/>TypeScript
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br/>Java
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://isocpp.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br/>C++
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/>PostgreSQL
-      </a>
-    </td>
-  </tr>
-</table>  
-
-### ⚙️ Frameworks & Libraries  
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://react.dev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>React
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>Node.js
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/><br/>TensorFlow
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://pytorch.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/><br/>PyTorch
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://numpy.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/><br/>NumPy
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://pandas.pydata.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/><br/>Pandas
-      </a>
-    </td>
-  </tr>
-</table>  
-
-### 🛠️ Tools  
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="https://git-scm.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br/>Git
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.docker.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><br/>Docker
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://cloud.google.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/><br/>GCP
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://vercel.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" style="background-color:white; padding:5px; border-radius:6px;"/><br/>Vercel
-      </a>
-    </td>
-  </tr>
-</table>  
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 [Converso](https://github.com/shresthamishra76/Converso-SaaS-App)  
-_SaaS ML Companion — Next.js, Tailwind CSS, Supabase, Stripe_  
-- Real-time **voice-driven lessons** with VAPI  
-- 100+ daily interactive sessions in beta  
-- 50+ active paying users within 1 month  
-
-### 🔹 [YOLO Automated Landmark Detection](https://github.com/shresthamishra76)  
-_Deep Learning — Python, Streamlit, YOLO, GU2Net_  
-- Automated detection of calcaneus landmarks  
-- Achieved **94% SDR** and deployed with an interactive Streamlit app  
-
-### 🔹 [BiteSwipe](https://github.com/shresthamishra76/BiteSwipe)  
-_Restaurant Discovery App — Next.js, Supabase, Yelp API_  
-- Swipe-based restaurant finder using **Yelp API**  
-- Handles **10k+ swipes/min** with zero data loss  
-
----
-<br/>
-  <h2 align="center">⚡ Current Statistics ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=shresthamishra76&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-beta-eosin-90.vercel.app/api?username=shresthamishra76&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats-beta-eosin-90.vercel.app/api/top-langs/?username=shresthamishra76&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ---
 
-## 📫 Get in Touch  
+<div align="center">
 
-📧 [Email](mailto:shresthamishra76@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/shrestha-mishra07/)  
-🌐 [Portfolio](https://shresthamishra.vercel.app)  
-📄 [Resume (Fall 2025)](https://github.com/shresthamishra76/shresthamishra76/releases/download/v1.0/Shrestha_Mishra_Resume.pdf)  
+## 📊 GitHub Insights
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthamishra76&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats-beta-eosin-90.vercel.app/api?username=shresthamishra76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats-beta-eosin-90.vercel.app/api/top-langs/?username=shresthamishra76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=HTML" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthamishra76&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" width="49%" />
+
+</div>
 
 ---
-⭐️ _Always excited to collaborate on projects!_
+
+<div align="left">
+
+## 💼 Open to Opportunities
+
+```javascript
+const shrestha = {
+      education: "CS @ UT Austin '29",
+      location: "Austin, TX",
+      interests: ["Machine Learning", "Full-Stack Development"],
+      lookingFor: ["Open Source Collaboration", "Hackathon Teams", "To Have Fun!"],
+      contact: ["shresthamishra76@gmail.com", "shresthamishra@utexas.edu", "smishra26@mgh.harvard.edu"]
+};
+```
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shresthamishra76&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+### ⭐️ _Open to collaborating on innovative projects!_
+
+</div>
