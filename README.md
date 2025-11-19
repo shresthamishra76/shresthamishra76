@@ -57,7 +57,7 @@
 
 <img src="https://github-readme-stats-beta-eosin-90.vercel.app/api?username=shresthamishra76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
 
-<img src="https://github-readme-stats-beta-eosin-90.vercel.app/api/top-langs/?username=shresthamishra76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=HTML" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-beta-eosin-90.vercel.app/api/top-langs/?username=shresthamishra76&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=HTML" alt="Top Languages" width="39%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthamishra76&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" width="49%" />
 
 </div>
