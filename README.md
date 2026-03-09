@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://shresthamishra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrestha-mishra07/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-success?style=for-the-badge)](https://github.com/shresthamishra76/resume-sync/blob/main/resume/Shrestha_Mishra_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-success?style=for-the-badge)](https://shresthamishra.vercel.app/api/resume)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthamishra76@gmail.com)
 
 </div>
