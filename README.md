@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🎓 CS @ The University of Texas at Austin • '29
+### 🎓 CS @ The University of Texas at Austin
 ### 💼 Incoming SDE @ IBM (Summer '26)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://shresthamishra.vercel.app)
