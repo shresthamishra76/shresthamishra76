@@ -68,7 +68,7 @@
 
 ```javascript
 const Shrestha Mishra = {
-      education: "CS @ UT Austin '29",
+      education: "CS @ UT Austin",
       location: "Austin, TX",
       interests: ["Machine Learning", "Full-Stack Development"],
       lookingFor: ["Open Source Collaboration", "Hackathon Teams", "To Have Fun!"],
