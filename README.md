@@ -5,7 +5,7 @@
 <div align="center">
   
 ### 🎓 CS @ The University of Texas at Austin
-### 💼 Incoming SDE @ IBM (Summer '26)
+### 💼 SDE @ IBM (Summer '26)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://shresthamishra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrestha-mishra07/)
@@ -45,7 +45,7 @@
 </tr>
 </table>
 
-**Core Languages:** Python • JavaScript • TypeScript • Java • C++ • SQL
+**Core Languages:** Python • Go • JavaScript • TypeScript • Java • C++ • SQL
 
 </div>
 
@@ -71,7 +71,7 @@ const Shrestha Mishra = {
       education: "CS @ UT Austin",
       location: "Austin, TX",
       interests: ["Machine Learning", "Full-Stack Development"],
-      lookingFor: ["Open Source Collaboration", "Hackathon Teams", "To Have Fun!"],
+      lookingFor: ["Internships", "Open Source Collaboration", "Hackathon Teams", "To Have Fun!"],
       contact: ["shresthamishra76@gmail.com", "shresthamishra@utexas.edu", "smishra26@mgh.harvard.edu"]
 };
 ```
