@@ -5,7 +5,7 @@
 <div align="center">
   
 ### 🎓 CS @ The University of Texas at Austin
-### 💼 SDE @ IBM (Summer '26)
+### 💼 Prev SDE @ IBM (Summer '26)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90E2?style=for-the-badge)](https://shresthamishra.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrestha-mishra07/)
