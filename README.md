@@ -71,7 +71,7 @@ const Shrestha Mishra = {
       location: "Austin, TX",
       interests: ["Machine Learning", "Full-Stack Development"],
       lookingFor: ["Internships", "Open Source Collaboration", "Hackathon Teams", "To Have Fun!"],
-      contact: ["shresthamishra76@gmail.com", "shresthamishra@utexas.edu", "smishra26@mgh.harvard.edu"]
+      contact: ["shresthamishra76@gmail.com", "shresthamishra@utexas.edu"]
 };
 ```
 </div>
