@@ -66,7 +66,7 @@
 ## 💼 Open to Opportunities
 
 ```javascript
-const Shrestha Mishra = {
+const shrestha_mishra = {
       education: "CS @ UT Austin",
       location: "Austin, TX",
       interests: ["Machine Learning", "Full-Stack Development"],
